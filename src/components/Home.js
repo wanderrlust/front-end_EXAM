@@ -6,7 +6,7 @@ const Home = () => {
 		<div className="page">
 			<div>
 				<h1>Головна сторінка</h1>
-				<p>Це головна сторінка додатка.</p>
+				<p>Hello world!</p>
 			</div>
 			<ul className="home-links">
 				<li className="home-link">
